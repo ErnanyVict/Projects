@@ -14,4 +14,4 @@ def zipper(lista1, lista2):
 
 print(zipper(cidades, estados))
 print(list(zip(cidades, estados)))
-print(list(zip_longest(cidades, estados)))
+print(list(zip_longest(cidades, estados))) 
